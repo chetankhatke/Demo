@@ -3,3 +3,5 @@ for learning purpose
 git features
 
 git softwares
+
+now basics learned
