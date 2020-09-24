@@ -4,4 +4,6 @@ git features
 
 git softwares
 
+nnew version 
+
 now basics learned
